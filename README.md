@@ -4,6 +4,8 @@
 
 > ⚠️ Đây là **sản phẩm demo giao diện** do [Ntahien Tech](https://ntahientech.com) thiết kế và lập trình. Mọi bài viết, nhân vật, phóng viên, đội bóng, sự kiện đều **hư cấu**. Không có máy chủ: tài khoản, bình luận, gói đọc chỉ lưu trong trình duyệt của bạn (localStorage). Trang thanh toán là **giả lập** — không thu thông tin thẻ thật, không có giao dịch thật. Ảnh lấy từ Wikimedia Commons theo giấy phép tự do, ghi nguồn dưới mỗi ảnh.
 
+🔗 **Demo:** https://newyork-time.vercel.app
+
 ![Trang nhất](docs/screenshots/01-trang-nhat.jpg)
 
 ## Ảnh giao diện
